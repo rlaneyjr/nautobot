@@ -2,7 +2,7 @@
 # This script will prepare Nautobot to run after the code has been upgraded to
 # its most recent release.
 
-export NAUTOBOT_CONFIG=/opt/nautobot/nautobot_config.py
+export NAUTOBOT_CONFIG=/Users/rlaney/Projects/Sandbox/nautobot/development/nautobot_config.py
 NAUTOBOT_USER=nautobot
 
 # Change to the directory where script is ran

@@ -98,6 +98,8 @@ dependencies = [
     "netutils (>=1.14.0,<2)",
     # HTML sanitization
     "nh3 (>=0.3.5,<0.4)",
+    # .xlsx parsing for built-in Jobs (Presidio e-mail Excel device import)
+    "openpyxl (>=3.1.5,<4)",
     # Handling of version numbers
     "packaging (>=23.1)",
     # Image processing library
